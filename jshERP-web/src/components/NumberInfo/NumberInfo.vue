@@ -49,6 +49,6 @@
   }
 </script>
 
-<style lang="less" scoped>
-  @import "index";
-</style>
+<!--<style lang="less" scoped>-->
+<!--  @import "index";-->
+<!--</style>-->
