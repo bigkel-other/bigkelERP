@@ -1,0 +1,12 @@
+2022/11/12-10:53:08 INFO  [main] com.jsh.erp.ErpApplication - Starting ErpApplication on BigKel-Yang with PID 12104 (started by CJK in E:\java项目\ERP\bigkelERP)
+2022/11/12-10:53:08 DEBUG [main] com.jsh.erp.ErpApplication - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2022/11/12-10:53:08 INFO  [main] com.jsh.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/11/12-10:53:15 INFO  [main] com.jsh.erp.ErpApplication - Started ErpApplication in 7.552 seconds (JVM running for 9.161)
+2022/11/12-12:11:55 INFO  [main] com.jsh.erp.ErpApplication - Starting ErpApplication on BigKel-Yang with PID 17808 (E:\java_project\ERP\bigkelERP\bigkelERP-boot\target\classes started by CJK in E:\java_project\ERP\bigkelERP)
+2022/11/12-12:11:55 DEBUG [main] com.jsh.erp.ErpApplication - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2022/11/12-12:11:55 INFO  [main] com.jsh.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/11/12-12:12:02 INFO  [main] com.jsh.erp.ErpApplication - Started ErpApplication in 7.988 seconds (JVM running for 10.429)
+2022/11/12-12:15:27 INFO  [main] com.jsh.erp.ErpApplication - Starting ErpApplication on BigKel-Yang with PID 19128 (E:\java_project\ERP\bigkelERP\bigkelERP-boot\target\classes started by CJK in E:\java_project\ERP\bigkelERP)
+2022/11/12-12:15:27 DEBUG [main] com.jsh.erp.ErpApplication - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2022/11/12-12:15:27 INFO  [main] com.jsh.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/11/12-12:15:34 INFO  [main] com.jsh.erp.ErpApplication - Started ErpApplication in 7.506 seconds (JVM running for 8.843)
