@@ -9,3 +9,4 @@
 ## front
 **/*.lock
 **/.gitignore
+bigkelERP-boot/logs.home_IS_UNDEFINED/jshERP.log
